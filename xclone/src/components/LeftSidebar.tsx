@@ -72,7 +72,6 @@ const LeftSidebar = () => {
               <BsThreeDots />
             </div>
           </button>
-          <div>at the bottom</div>
         </section>
   )
 }
